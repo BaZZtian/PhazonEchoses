@@ -29,7 +29,8 @@ Report a problem in [Issues](https://github.com/BaZZtian/PhazonEchoses/issues). 
 
 ## Credits
 
-- [Odrannnn and the MetroidPrime2Port contributors](https://github.com/Odrannnn/MetroidPrime2Port) for the upstream Echoes port.
+- [PrimeDecomp and its contributors](https://github.com/PrimeDecomp/echoes) for the Echoes decompilation.
+- Odrannnn and the MetroidPrime2Port contributors for the native upstream port used as the PS5 starting point (original repository currently unavailable).
 - [BaZZtian](https://github.com/BaZZtian) for the PS5 adaptation, packaging and player support.
 - Retro Studios and Nintendo for the original Metroid Prime 2: Echoes.
 
