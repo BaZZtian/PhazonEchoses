@@ -27,4 +27,10 @@ Coming soon. The first public release is planned as `00.001.000`. Check [Release
 
 Report a problem in [Issues](https://github.com/BaZZtian/PhazonEchoses/issues). Include your PS5 firmware, app version and disc region. Keep disc images and save files private.
 
+## Credits
+
+- [Odrannnn and the MetroidPrime2Port contributors](https://github.com/Odrannnn/MetroidPrime2Port) for the upstream Echoes port.
+- [BaZZtian](https://github.com/BaZZtian) for the PS5 adaptation, packaging and player support.
+- Retro Studios and Nintendo for the original Metroid Prime 2: Echoes.
+
 This independent project is unaffiliated with Nintendo, Retro Studios or Sony Interactive Entertainment.
