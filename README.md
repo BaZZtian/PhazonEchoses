@@ -15,13 +15,9 @@
 
 ## Availability
 
-Coming soon. The first public release is planned as `00.001.000`. Check [Releases](https://github.com/BaZZtian/PhazonEchoses/releases) for downloads and supported disc revisions.
+**Coming soon.** There is no public PS5 package yet. The Prospero Store listing reserves `PPSA99737`. The planned first version is `00.001.000`. The release notes will list supported disc revisions and explain how to use your own GameCube disc image.
 
-## Installation
-
-1. Install PhazonEchoses through Prospero Store once it is available.
-2. Follow the release notes to add your own supported GameCube disc image.
-3. Start PhazonEchoses from its PS5 home-screen tile.
+[GitHub releases](https://github.com/BaZZtian/PhazonEchoses/releases) · [Prospero Store catalog entry](https://github.com/darkxex/ps5-homebrew-catalog/blob/main/apps/PPSA99737.json)
 
 ## Support
 
